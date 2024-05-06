@@ -61,7 +61,7 @@
   "devDependencies": {
     "@linkurious/code-tools": "0.0.14",
     "@testing-library/react": "^14.0.0",
-    "@testomatio/reporter": "0.7.6",
+    "@testomatio/reporter": "0.8.3",
     "@types/express": "4.17.21",
     "@types/react": "18.0.29",
     "@types/react-dom": "18.0.11",
